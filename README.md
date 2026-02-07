@@ -1,6 +1,6 @@
 # 🚀 AsciiGX
 
-**AsciiGX** to zaawansowana, otwarta (Open Source) modyfikacja i przeglądarka środowiska Scratch. Naszym celem jest rozszerzenie możliwości standardowego edytora o funkcje, których brakuje społeczności, przy zachowaniu 100% kompatybilności z Twoimi projektami.
+**AsciiGX** to zaawansowana, otwarta (Open Source) modyfikacja i przeglądarka. Naszym celem jest rozszerzenie możliwości standardowego edytora o funkcje, których brakuje społeczności, przy zachowaniu optymalizacji.
 
 ---
 
@@ -20,7 +20,7 @@ Jesteśmy projektem tworzonym przez społeczność! Możesz nas wesprzeć na kil
 3.  **Beta-testy:** Testuj najnowsze wersje i dziel się opinią.
 
 ## 🛡️ Bezpieczeństwo
-AsciiGX korzysta z oficjalnych mechanizmów Scratcha. Nie przechowujemy Twoich haseł ani danych prywatnych. Kod jest publiczny, więc każdy może zweryfikować jego bezpieczeństwo.
+Nie przechowujemy Twoich haseł ani danych prywatnych. Kod jest publiczny, więc każdy może zweryfikować jego bezpieczeństwo.
 
 ## ⚖️ Licencja
 Projekt jest udostępniany na licencji **MIT**. Oznacza to, że możesz go dowolnie modyfikować i rozpowszechniać, pod warunkiem zachowania informacji o autorach.
