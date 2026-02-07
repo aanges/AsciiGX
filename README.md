@@ -5,10 +5,9 @@
 ---
 
 ## ✨ Funkcje
-* **Rozszerzony Edytor:** Nowe narzędzia ułatwiające programowanie.
 * **Wysoka Wydajność:** Zoptymalizowane działanie projektów.
 * **Pełna Kompatybilność:** Twoje pliki `.sb3` działają bez problemu.
-* **Open Source:** Każdy może sprawdzić kod i pomóc w rozwoju.
+* **Open Source:** Każdy może sprawdzić kod i zmieniac co chce
 
 ## 📥 Pobieranie
 Najnowszą wersję AsciiGX znajdziesz zawsze w zakładce **Releases** na GitHubie lub na naszym serwerze Discord:
