@@ -5,8 +5,7 @@
 ---
 
 ## ✨ Funkcje
-* **Wysoka Wydajność:** Zoptymalizowane działanie projektów.
-* **Pełna Optymalizacja:** Chcemy zadbac aby przegladarka sciągała jak najmniej ramu i wykozysytywala jak najmniej mocy procesora
+* **Wysoka Optymalizacja:** Chcemy zadbac aby przegladarka sciągała jak najmniej ramu i wykozysytywala jak najmniej mocy procesora
 * **Open Source:** Każdy może sprawdzić kod i zmieniac co chce
 
 ## 📥 Pobieranie
