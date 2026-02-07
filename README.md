@@ -6,7 +6,7 @@
 
 ## ✨ Funkcje
 * **Wysoka Wydajność:** Zoptymalizowane działanie projektów.
-* **Pełna Kompatybilność:** Twoje pliki `.sb3` działają bez problemu.
+* **Pełna Optymalizacja:** Chcemy zadbac aby przegladarka sciągała jak najmniej ramu i wykozysytywala jak najmniej mocy procesora
 * **Open Source:** Każdy może sprawdzić kod i zmieniac co chce
 
 ## 📥 Pobieranie
